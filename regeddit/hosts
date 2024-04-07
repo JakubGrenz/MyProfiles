@@ -1,0 +1,24 @@
+127.0.0.1	localhost
+127.0.0.1	jgrenz-System-Product-Name
+127.0.0.1	www.youtube.com
+127.0.0.1	youtube.com
+127.0.0.1	twitter.com
+127.0.0.1	www.twitch.com
+127.0.0.1	twitch.tv
+127.0.0.1	www.twitch.tv
+127.0.0.1	twitch.com
+127.0.0.1	facebook.com
+127.0.0.1	jbzd.com.pl
+127.0.0.1	9gag.com
+127.0.0.1	facebook.com
+127.0.0.1	www.facebook.com
+
+
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
